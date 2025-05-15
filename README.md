@@ -6,7 +6,7 @@ To understand where sales are coming from, what products sell best, and which ty
 
 DATA USED:
 
-
+<a href="https://github.com/Priya1864/BLINKIT-DATA-ANALYSIS/blob/main/BlinkIT%20Grocery%20analysis.xlsx">"DATASET"</a>
 
 Tool Used:
 
@@ -54,3 +54,4 @@ Keep promoting healthy (low-fat) and fast-moving products.
 Work on improving or removing items that don’t sell much.
 
 DASHBOARD:
+<a href="https://github.com/Priya1864/BLINKIT-DATA-ANALYSIS/blob/main/BLINKIT%20DASHBOARD.png">"DASHBOARD LINK"</a>
