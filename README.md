@@ -1,19 +1,19 @@
-#Blinkit Sales Analysis (Excel Dashboard)
+# Blinkit Sales Analysis (Excel Dashboard)
 
-Objective:
+# Objective:
 
 To understand where sales are coming from, what products sell best, and which types of stores and locations perform better.
 
-DATA USED:
+# DATA USED:
 
 <a href="https://github.com/Priya1864/BLINKIT-DATA-ANALYSIS/blob/main/BlinkIT%20Grocery%20analysis.xlsx">"DATASET"</a>
 
-Tool Used:
+# Tool Used:
 
 Microsoft Excel – used pivot tables, charts, and filters to analyze and visualize the data.
 
 
-Questions I Answered:
+# Questions I Answered:
 
 Which type of outlets bring in more sales?
 
@@ -25,7 +25,7 @@ Do low-fat items sell more than regular ones?
 
 Which product categories are underperforming?
 
-Insights:
+# Insights:
 
 Medium and high-size outlets make most of the sales.
 
@@ -37,7 +37,7 @@ Fruits, snacks, and household goods are top-selling items.
 
 Supermarket Type 1 performs the best among outlet types.
 
-Conclusions:
+# Conclusions:
 
 The company should focus more on Tier 3 cities and medium-sized outlets.
 
@@ -45,7 +45,7 @@ Low-fat and popular categories like snacks should be prioritized.
 
 There’s a chance to improve sales by focusing on low-performing products.
 
-Recommendations:
+# Recommendations:
 
 Open more outlets in high-performing city tiers.
 
@@ -53,5 +53,5 @@ Keep promoting healthy (low-fat) and fast-moving products.
 
 Work on improving or removing items that don’t sell much.
 
-DASHBOARD:
+# DASHBOARD:
 <a href="https://github.com/Priya1864/BLINKIT-DATA-ANALYSIS/blob/main/BLINKIT%20DASHBOARD.png">"DASHBOARD LINK"</a>
