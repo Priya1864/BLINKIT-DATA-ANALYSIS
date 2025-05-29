@@ -1,4 +1,6 @@
 # Blinkit Sales Analysis (Excel Dashboard)
+![image](https://github.com/user-attachments/assets/6709b93d-f485-4d2c-8aaa-a67e6add21a8)
+
 
 # Objective:
 
